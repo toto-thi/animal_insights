@@ -1,0 +1,6 @@
+[submodule "preparing_data"]
+	path = preparing_data
+	url = https://github.com/toto-thi/data_preparation
+[submodule "dbt_animal_insights"]
+	path = dbt_animal_insights
+	url = https://github.com/toto-thi/dbt_animal_insight
